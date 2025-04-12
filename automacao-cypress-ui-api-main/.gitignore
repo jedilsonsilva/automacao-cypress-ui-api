@@ -1,0 +1,12 @@
+node_modules
+cypress/videos
+cypress/screenshots
+.env
+dist
+coverage
+package-lock.json
+
+
+#!.allure
+allure-report
+allure-results

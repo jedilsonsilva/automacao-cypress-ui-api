@@ -1,0 +1,10 @@
+{
+    "user": {
+        "cpf": "36704566864",
+        "rne": "X0987654"
+    },
+    "passWord": {
+        "senha": "Teste@1234",
+        "incorreta": "Teste@4321"
+    }
+}

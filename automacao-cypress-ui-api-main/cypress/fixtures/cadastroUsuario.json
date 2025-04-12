@@ -1,0 +1,14 @@
+{
+    "cadastro": {
+        "passo1": {
+            "nome": "João Silva",
+            "emailPessoal": "joao@exemplo.com",
+            "emailSecundario": "joao.silva@exemplo.com",
+            "celular": "11999999999"
+        },
+        "passo2": {
+            "cpf": "49375859088",
+            "dataNascimento": "10/10/1990"
+        }
+    }
+}
